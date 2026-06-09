@@ -79,3 +79,16 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 
+## New Personas
+
+### Scrum Master
+Facilitates agile processes, ensures the team follows Scrum practices, and removes impediments.
+
+### UX/UI Designer
+Designs intuitive and user-centered interfaces, improving the overall user experience.
+
+### Business Analyst
+Analyzes business needs and translates them into technical requirements for the team.
+
+### Support/Operations Lead
+Ensures the product is operationally ready and manages post-launch support and maintenance.
